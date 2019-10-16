@@ -1,0 +1,25 @@
+var articles = [{
+
+   "article_id" : "1",
+
+   "description" : "Iphone 11",
+
+   "price" : 1199,
+
+   "currency" : "$",
+
+   "link_online_pic" : "phone_iphone_new.png"
+   
+   } , {
+
+   "article_id" : "2",
+
+   "description" : "Samsung Tablet",
+
+   "price" : 399,
+
+   "currency" : "$",
+
+   "link_online_pic" : "tablet_samsung_pad.png"
+   
+}];
